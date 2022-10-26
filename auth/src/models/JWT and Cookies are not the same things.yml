@@ -1,0 +1,11 @@
+JWT and Cookies are not the same things
+
+Cookie: 
+  - Transport mechanism
+  - Moves any kind of data between browser and server
+  - Automatically managed by the browser
+
+JWT's:
+  - Authentication/Authorization mechanism
+  - Stores any data we want
+  - We have to manage it manually
